@@ -1,0 +1,3 @@
+@echo off
+echo Starting Version Diving...
+python "%~dp0main.py" 
